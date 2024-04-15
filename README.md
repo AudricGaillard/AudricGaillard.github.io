@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<meta charset="UTF-8" />
-       		<title>Bienvenue !</title>
    	</head>
    	<body>
        		<h1>Vous êtes arrivé(e) sur la page de test.</h1>
